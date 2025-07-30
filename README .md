@@ -30,8 +30,7 @@ And many more, be creative with it!
 - **Cloud database service** - MongoDB Atlas
 - **Deployment** - Render (Backend) & Netlify (Frontend)
 
-### 🗄 Backend Application Link
-[`https://github.com/rsinghcodes/bulletin-board-backend`](https://github.com/rsinghcodes/bulletin-board-backend)
+
 
 ## :satellite: Project Deployment
 
